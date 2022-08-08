@@ -8,9 +8,9 @@ this course will provide an introdution to how to describe a dataset using figur
 
 ### Practical work (1.5 hour)
 
-* Define a quantitative variable
+* Define the term `quantitative variable`
 * Give example of graphs we can use to describe quantitative variable (histogram, boxplot)
-* Define a qualitative variable
+* Define the term `qualitative variable`
 * Give example of graphs we can use to describe it (barplot)
 * Compute graphs that show relationships between:
 	* two quantitative variables
